@@ -6,8 +6,8 @@
 
 Student::Student(){
     setasTeacher();
-    setMax_books(10);
-    setMax_days(50);
+    setMax_books(5);
+    setMax_days(30);
 }
 
 Student::Student(string username, string password){
